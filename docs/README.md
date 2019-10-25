@@ -149,7 +149,6 @@ See [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETE
  - Add Night Mode
 
 ## License
-----
 
 MIT
 
