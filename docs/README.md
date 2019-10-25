@@ -148,7 +148,7 @@ See [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETE
  - Write MORE Tests
  - Add Night Mode
 
-License
+## License
 ----
 
 MIT
